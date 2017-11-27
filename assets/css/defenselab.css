@@ -19,6 +19,32 @@ body {
 	text-align: center;
 }
 
+h2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+ .dl {
+
+  color:#7CFC00;
+  font-weight: bold;
+font-style: italic;
+
+ }
+
+ul {
+  
+  list-style: none;
+}
+
+.btn:focus {
+  background-color: #7CFC00;
+}
+
+li {
+  margin-top: 5px;
+  margin-left: 100px;
+}
+
 .title {
   text-align: center;
 }
