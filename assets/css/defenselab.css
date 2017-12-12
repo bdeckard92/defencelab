@@ -74,6 +74,12 @@ li {
   font-style: italic;
 }
 
+.carousel { 
+  max-height: 700px; 
+  overflow: hidden;
+}
+  
+
 .row {
   margin-top:25px;
 }
