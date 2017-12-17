@@ -75,7 +75,7 @@ li {
 }
 
 .carousel { 
-  max-height: 700px; 
+  max-height: 500px; 
   overflow: hidden;
 }
   
@@ -205,9 +205,9 @@ iframe, img {
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 10s;
+  -webkit-animation-duration: 20s;
   animation-name: fade;
-  animation-duration: 10s;
+  animation-duration: 20s;
 }
 
 @-webkit-keyframes fade {
